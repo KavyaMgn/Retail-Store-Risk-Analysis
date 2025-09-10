@@ -44,5 +44,3 @@ U.S. retailers face costly last-minute closures due to lagging indicators (reven
 - Extend analysis to multi-retailer datasets  
 - Incorporate external data (leases, traffic, economic indicators)  
 - Deploy early warning dashboards for proactive monitoring  
-
----

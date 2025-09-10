@@ -46,7 +46,3 @@ U.S. retailers face costly last-minute closures due to lagging indicators (reven
 - Deploy early warning dashboards for proactive monitoring  
 
 ---
-
-📂 Includes:  
-- `final_project_code.ipynb` → Data + ML + NLP pipeline  
-- `Presentation.pdf` → Deck with visuals, word clouds, and ROI analysis
